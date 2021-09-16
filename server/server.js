@@ -13,7 +13,7 @@ const app = express();
 
 // Replace with your mongoLab URI
 const MONGO_URI =
-  "mongodb+srv://Vesna:J3B2DWQ7xY0ef3wr@cluster1.1et0c.mongodb.net/myFirstDatabase?retryWrites=true&w=majority";
+  "mongodb+srv://Vesna:RoXYwVdhyImvnryL@cluster1.1et0c.mongodb.net/Cluster1?retryWrites=true&w=majority";
 
 // Mongoose's built in promise library is deprecated, replace it with ES2015 Promise
 mongoose.Promise = global.Promise;
