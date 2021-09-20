@@ -1,2 +1,1 @@
-# auth-graphql-starter
-Starter project from a GraphQL course on Udemy.com - Section 3!
+A web app with signup, login and logout page. You need to be authenticated to be able to see your dashboard.
